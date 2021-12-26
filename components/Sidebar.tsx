@@ -10,7 +10,7 @@ import Button from "@components/Button";
 export default function Sidebar(props) {
   return (
     <div className={styles.sidebar}>
-
+      <img src="/Fin-File-Crypto.png" />
       <h1>Fin-File-Crypto</h1>
       <p>
         A storage and retrieval dapp for crypto investment videos and documents.{" "}
